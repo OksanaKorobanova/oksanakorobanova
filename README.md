@@ -4,12 +4,10 @@ I’m **Oksana**, a front-end developer from Ukraine, currently living in Cracow
 
 ## About Me
 
-I've been in the IT industry for over **8 years**, with the last **4+ years** dedicated to **React-based projects**. During my career, I've had the opportunity to work with teams of various sizes, contributing to the success of multiple projects while enjoying the process of building cool things together. 
+I've been in the IT industry for over **8 years**, with the last **4+ years** dedicated to **React-based projects**. 
+On my GitHub, you can explore some interesting projects I have built independently or while learning new technologies through online tutorials.
 
-Check out my website/blog [here](https://www.korobanova.com/en) for more insights and updates. 
-
-### Projects
-Here, you can also explore some interesting projects that I have built either independently or while learning new technologies through online tutorials, etc.
+Check out [**my website&blog**](https://www.korobanova.com/en) for more insights and updates. 
 
 Thanks for stopping by!
 
