@@ -8,6 +8,9 @@ I've been in the IT industry for over **8 years**, with the last **4+ years** de
 
 Check out my website/blog [here](https://www.korobanova.com/en) for more insights and updates. 
 
+### Projects
+Here, you can also explore some interesting projects that I have built either independently or while learning new technologies through online tutorials, etc.
+
 Thanks for stopping by!
 
 <!--
